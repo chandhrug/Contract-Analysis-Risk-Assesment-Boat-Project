@@ -1,0 +1,14 @@
+{"timestamp": "2026-02-03 10:29:25.123919", "action": "ANALYSIS_COMPLETE", "data": {"risk_score": 0.0}}
+{"timestamp": "2026-02-03 10:30:07.250260", "action": "ANALYSIS_COMPLETE", "data": {"risk_score": 0.0}}
+{"timestamp": "2026-02-03 10:37:42.151976", "action": "ANALYSIS_COMPLETE", "data": {"risk_score": 0.0}}
+{"timestamp": "2026-02-03 10:39:51.803798", "action": "ANALYSIS_COMPLETE", "data": {"risk_score": 0.0}}
+{"timestamp": "2026-02-03 10:42:45.353011", "action": "ANALYSIS_COMPLETE", "data": {"risk_score": 0.0}}
+{"timestamp": "2026-02-03 10:59:59.019067", "action": "ANALYSIS_COMPLETE", "data": {"risk_score": 30.0}}
+{"timestamp": "2026-02-03 11:43:02.489681", "action": "ANALYSIS_COMPLETE", "data": {"risk_score": 58.57}}
+{"timestamp": "2026-02-03 11:52:09.997711", "action": "ANALYSIS_COMPLETE", "data": {"risk_score": 47.5}}
+{"timestamp": "2026-02-03 12:35:46.338506", "action": "ANALYSIS_COMPLETE", "data": {"risk_score": 37.65}}
+{"timestamp": "2026-02-03 12:47:14.507129", "action": "ANALYSIS_COMPLETE", "data": {"risk_score": 47.5}}
+{"timestamp": "2026-02-03 12:52:33.470029", "action": "ANALYSIS_COMPLETE", "data": {"risk_score": 58.57}}
+{"timestamp": "2026-02-03 12:53:32.115093", "action": "ANALYSIS_COMPLETE", "data": {"risk_score": 47.5}}
+{"timestamp": "2026-02-03 12:54:34.768669", "action": "ANALYSIS_COMPLETE", "data": {"risk_score": 37.65}}
+{"timestamp": "2026-02-03 12:56:14.990134", "action": "ANALYSIS_COMPLETE", "data": {"risk_score": 30.0}}
